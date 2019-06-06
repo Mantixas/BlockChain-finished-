@@ -1,0 +1,44 @@
+C:\Users\Zalman\source\repos\Formos\Formos\bin\Debug\Formos.exe.config
+C:\Users\Zalman\source\repos\Formos\Formos\bin\Debug\Formos.exe
+C:\Users\Zalman\source\repos\Formos\Formos\bin\Debug\Formos.pdb
+C:\Users\Zalman\source\repos\Formos\Formos\obj\Debug\Formos.csprojAssemblyReference.cache
+C:\Users\Zalman\source\repos\Formos\Formos\obj\Debug\Formos.Client.resources
+C:\Users\Zalman\source\repos\Formos\Formos\obj\Debug\Formos.Properties.Resources.resources
+C:\Users\Zalman\source\repos\Formos\Formos\obj\Debug\Formos.csproj.GenerateResource.cache
+C:\Users\Zalman\source\repos\Formos\Formos\obj\Debug\Formos.csproj.CoreCompileInputs.cache
+C:\Users\Zalman\source\repos\Formos\Formos\obj\Debug\Formos.exe
+C:\Users\Zalman\source\repos\Formos\Formos\obj\Debug\Formos.pdb
+C:\Users\Laurynas\Desktop\Formos\Formos\bin\Debug\Formos.exe.config
+C:\Users\Laurynas\Desktop\Formos\Formos\bin\Debug\Formos.exe
+C:\Users\Laurynas\Desktop\Formos\Formos\bin\Debug\Formos.pdb
+C:\Users\Laurynas\Desktop\Formos\Formos\obj\Debug\Formos.csprojAssemblyReference.cache
+C:\Users\Laurynas\Desktop\Formos\Formos\obj\Debug\Formos.Client.resources
+C:\Users\Laurynas\Desktop\Formos\Formos\obj\Debug\Formos.Properties.Resources.resources
+C:\Users\Laurynas\Desktop\Formos\Formos\obj\Debug\Formos.Server.resources
+C:\Users\Laurynas\Desktop\Formos\Formos\obj\Debug\Formos.Vote.resources
+C:\Users\Laurynas\Desktop\Formos\Formos\obj\Debug\Formos.csproj.GenerateResource.cache
+C:\Users\Laurynas\Desktop\Formos\Formos\obj\Debug\Formos.csproj.CoreCompileInputs.cache
+C:\Users\Laurynas\Desktop\Formos\Formos\obj\Debug\Formos.exe
+C:\Users\Laurynas\Desktop\Formos\Formos\obj\Debug\Formos.pdb
+C:\Users\Mantixas\Desktop\New folder\Formos\Formos\bin\Debug\Formos.exe.config
+C:\Users\Mantixas\Desktop\New folder\Formos\Formos\bin\Debug\Formos.exe
+C:\Users\Mantixas\Desktop\New folder\Formos\Formos\bin\Debug\Formos.pdb
+C:\Users\Mantixas\Desktop\New folder\Formos\Formos\obj\Debug\Formos.csprojAssemblyReference.cache
+C:\Users\Mantixas\Desktop\New folder\Formos\Formos\obj\Debug\Formos.Client.resources
+C:\Users\Mantixas\Desktop\New folder\Formos\Formos\obj\Debug\Formos.Server.resources
+C:\Users\Mantixas\Desktop\New folder\Formos\Formos\obj\Debug\Formos.Vote.resources
+C:\Users\Mantixas\Desktop\New folder\Formos\Formos\obj\Debug\Formos.csproj.GenerateResource.cache
+C:\Users\Mantixas\Desktop\New folder\Formos\Formos\obj\Debug\Formos.csproj.CoreCompileInputs.cache
+C:\Users\Mantixas\Desktop\New folder\Formos\Formos\obj\Debug\Formos.exe
+C:\Users\Mantixas\Desktop\New folder\Formos\Formos\obj\Debug\Formos.pdb
+E:\WebDarbai\New folder\Formos\Formos\bin\Debug\Formos.exe.config
+E:\WebDarbai\New folder\Formos\Formos\bin\Debug\Formos.exe
+E:\WebDarbai\New folder\Formos\Formos\bin\Debug\Formos.pdb
+E:\WebDarbai\New folder\Formos\Formos\obj\Debug\Formos.csprojAssemblyReference.cache
+E:\WebDarbai\New folder\Formos\Formos\obj\Debug\Formos.Client.resources
+E:\WebDarbai\New folder\Formos\Formos\obj\Debug\Formos.Server.resources
+E:\WebDarbai\New folder\Formos\Formos\obj\Debug\Formos.Vote.resources
+E:\WebDarbai\New folder\Formos\Formos\obj\Debug\Formos.csproj.GenerateResource.cache
+E:\WebDarbai\New folder\Formos\Formos\obj\Debug\Formos.csproj.CoreCompileInputs.cache
+E:\WebDarbai\New folder\Formos\Formos\obj\Debug\Formos.exe
+E:\WebDarbai\New folder\Formos\Formos\obj\Debug\Formos.pdb
